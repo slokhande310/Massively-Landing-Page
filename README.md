@@ -14,6 +14,11 @@ This is how Websites Front Page looks -
 ![image](https://github.com/slokhande310/Massively-Landing-Page/assets/54625156/b9c01617-53dc-4997-9568-70defd04b4b1)
 
 
+Form, Address and Footer - 
+
+![image](https://github.com/slokhande310/Massively-Landing-Page/assets/54625156/8421bd04-3f69-4276-8fc3-dc21b5da86c4)
+
+
 Home Page [Responsive Design] - 
 
 ![image](https://github.com/slokhande310/Massively-Landing-Page/assets/54625156/dfde4eaf-3044-4989-b874-001fc4987adf)
@@ -28,6 +33,4 @@ Navigation bar -
 ![image](https://github.com/slokhande310/Massively-Landing-Page/assets/54625156/f32c0c82-62ad-4757-a4a1-212d1d6697d4)
 
 
-Form, Address and Footer - 
 
-![image](https://github.com/slokhande310/Massively-Landing-Page/assets/54625156/8421bd04-3f69-4276-8fc3-dc21b5da86c4)
