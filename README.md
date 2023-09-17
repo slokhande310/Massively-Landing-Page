@@ -26,3 +26,8 @@ Navigation bar -
 
 
 ![image](https://github.com/slokhande310/Massively-Landing-Page/assets/54625156/f32c0c82-62ad-4757-a4a1-212d1d6697d4)
+
+
+Form, Address and Footer - 
+
+![image](https://github.com/slokhande310/Massively-Landing-Page/assets/54625156/8421bd04-3f69-4276-8fc3-dc21b5da86c4)
